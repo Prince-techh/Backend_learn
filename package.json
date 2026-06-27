@@ -1,0 +1,17 @@
+{
+  "name": "princeandbacked",
+  "version": "1.0.0",
+  "description": "backend",
+  "keywords": [
+    "javascrpit",
+    "backend",
+    "prince"
+  ],
+  "license": "ISC",
+  "author": "\"Prince Chauhan\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
